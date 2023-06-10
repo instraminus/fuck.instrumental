@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+.alone {
+    width: 200px;
+	height: 200px;
+    display: block;
+  margin: 0 auto;
+}
+.nazva {
+    color: white;
+    text-align: center;
+}
+
+.mp3 {
+    display: block;
+  margin: 0 auto;
+}
+
+.btn {
+    display: block;
+  margin: 0 auto;
+  background-color: white;
+  background-color:#ffffff;
+    color: #000000;
+    border:none;
+    border-radius:10px;
+    
+    
+}
+
+iframe {
+    display: block;
+  margin: 0 auto;
+}
